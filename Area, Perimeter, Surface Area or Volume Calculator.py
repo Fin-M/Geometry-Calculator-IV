@@ -275,4 +275,4 @@ else:
     print("\n[Error]\n**Something you entered was incorrect, please read the instructions carefully and try again.**")
 
 
-print("\n[Coded, edited and updated by Fin McGhie]\n")
+print("\n[Coded, edited and updated by Fin-M]\n")
