@@ -1,2 +1,2 @@
 # Geometry-Calculator-IV
-A calcultor that can calculate the area, volume, perimeter or surface area of a shape.  [unfinished]
+A calcultor that can calculate the area, perimeter or surface area or volume of a shape.
